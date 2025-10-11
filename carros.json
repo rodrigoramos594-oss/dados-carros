@@ -8,7 +8,7 @@
     {"modelo":"Onix","ano":"2017","marca":"Chevrolet","preco":42000,"imagem":"LINK_ONIX"},
     {"modelo":"HB20","ano":"2017","marca":"Hyundai","preco":41000,"imagem":"LINK_ONIX"},
     {"modelo":"Civic","ano":"2016","marca":"Honda","preco":85000,"imagem":"LINK_COROLLA_XEI"},
-    {"modelo":"Fiesta","ano":"2015","marca":"Ford","preco":30000,"imagem":"LINK_GOL"},
+    {"modelo":"Fiesta","ano":"2015","marca":"Ford","preco":30000,"imagem":"https://i.imgur.com/cC9zwlL.jpeg"},
     {"modelo":"Sandero","ano":"2017","marca":"Renault","preco":32000,"imagem":"LINK_GOL"},
     {"modelo":"Fox","ano":"2016","marca":"Volkswagen","preco":34000,"imagem":"LINK_GOL"},
     {"modelo":"Prisma","ano":"2017","marca":"Chevrolet","preco":37000,"imagem":"LINK_ONIX"},
