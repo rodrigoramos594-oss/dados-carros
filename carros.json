@@ -1,0 +1,6 @@
+{
+  "carros": [
+    { "modelo": "Corolla", "ano": "2015", "marca": "Toyota", "preco": 74800, "imagem": "https://i.imgur.com/F3X2TTh.jpg" },
+    { "modelo": "Gol", "ano": "2017", "marca": "Volkswagen", "preco": 44500, "imagem": "https://i.imgur.com/Xb8vZzZ.jpg" }
+  ]
+}
