@@ -1,6 +1,11 @@
 {
   "carros": [
-    { "modelo": "Corolla", "ano": "2015", "marca": "Toyota", "preco": 74800, "imagem": "https://i.imgur.com/F3X2TTh.jpg" },
-    { "modelo": "Gol", "ano": "2017", "marca": "Volkswagen", "preco": 44500, "imagem": "https://i.imgur.com/Xb8vZzZ.jpg" }
+    { "modelo": "Corolla GLi", "ano": "2015", "marca": "Toyota", "preco": 73846, "imagem": "LINK_COROLLA_GLI" },
+    { "modelo": "Corolla GLi CVT", "ano": "2015", "marca": "Toyota", "preco": 74630, "imagem": "LINK_COROLLA_GLI_CVT" },
+    { "modelo": "Corolla XEi", "ano": "2015", "marca": "Toyota", "preco": 81825, "imagem": "LINK_COROLLA_XEI" },
+    { "modelo": "Corolla Altis", "ano": "2015", "marca": "Toyota", "preco": 84089, "imagem": "LINK_COROLLA_ALTIS" },
+    { "modelo": "Gol", "ano": "2016", "marca": "Volkswagen", "preco": 36000, "imagem": "LINK_GOL" },
+    { "modelo": "Onix", "ano": "2017", "marca": "Chevrolet", "preco": 42000, "imagem": "LINK_ONIX" }
+    // Repita e preencha até 50 carros, usando as mesmas imagens acima
   ]
 }
