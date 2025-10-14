@@ -1,1 +1,283 @@
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "ano": "2015",
+    "imagem": "https://www.edmunds.com/toyota/corolla/2015/pictures/",
+    "variacoes": [
+      {
+        "nome": "GLi 1.8 Manual",
+        "preco": "73846",
+        "potencia": "140 cv",
+        "consumo": "12 km/l",
+        "dimensoes": "4620 x 1775 x 1475 mm",
+        "porta_malas": "470 L",
+        "tanque": "55 L"
+      },
+      {
+        "nome": "GLi 1.8 CVT",
+        "preco": "74630",
+        "potencia": "140 cv",
+        "consumo": "12 km/l",
+        "dimensoes": "4620 x 1775 x 1475 mm",
+        "porta_malas": "470 L",
+        "tanque": "55 L"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "ano": "2018",
+    "imagem": "https://www.edmunds.com/volkswagen/golf/2018/pictures/",
+    "variacoes": [
+      {
+        "nome": "Trendline 1.0",
+        "preco": "40000",
+        "potencia": "75 cv",
+        "consumo": "14 km/l",
+        "dimensoes": "3999 x 1660 x 1490 mm",
+        "porta_malas": "285 L",
+        "tanque": "55 L"
+      }
+    ]
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Palio",
+    "ano": "2016",
+    "imagem": "https://commons.wikimedia.org/wiki/File:Fiat_Palio_1.4_Attractive_2016_(38906831460).jpg",
+    "variacoes": [
+      {
+        "nome": "Attractive 1.0",
+        "preco": "35000",
+        "potencia": "73 cv",
+        "consumo": "13 km/l",
+        "dimensoes": "3800 x 1700 x 1500 mm",
+        "porta_malas": "280 L",
+        "tanque": "48 L"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "ano": "2017",
+    "imagem": "https://media.chevrolet.com/Pages/galleries/br/pt/vehicles/chevrolet/onix/2017.html?page=2",
+    "variacoes": [
+      {
+        "nome": "LT 1.0",
+        "preco": "42000",
+        "potencia": "80 cv",
+        "consumo": "14.5 km/l",
+        "dimensoes": "3896 x 1739 x 1477 mm",
+        "porta_malas": "280 L",
+        "tanque": "54 L"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "ano": "2018",
+    "imagem": "https://www.edmunds.com/honda/civic/2018/pictures/",
+    "variacoes": [
+      {
+        "nome": "LXR 2.0",
+        "preco": "95000",
+        "potencia": "155 cv",
+        "consumo": "11 km/l",
+        "dimensoes": "4630 x 1776 x 1450 mm",
+        "porta_malas": "525 L",
+        "tanque": "50 L"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "ano": "2015",
+    "imagem": "https://www.edmunds.com/ford/fiesta/2015/pictures/",
+    "variacoes": [
+      {
+        "nome": "SE 1.6",
+        "preco": "38000",
+        "potencia": "115 cv",
+        "consumo": "13 km/l",
+        "dimensoes": "3969 x 1725 x 1498 mm",
+        "porta_malas": "290 L",
+        "tanque": "51 L"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "HB20",
+    "ano": "2016",
+    "imagem": "https://www.edmunds.com/hyundai/hb20/2016/pictures/",
+    "variacoes": [
+      {
+        "nome": "Comfort Plus 1.6",
+        "preco": "42000",
+        "potencia": "128 cv",
+        "consumo": "12.5 km/l",
+        "dimensoes": "3965 x 1720 x 1470 mm",
+        "porta_malas": "300 L",
+        "tanque": "50 L"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "ano": "2017",
+    "imagem": "https://www.edmunds.com/nissan/versa/2017/pictures/",
+    "variacoes": [
+      {
+        "nome": "SV 1.6",
+        "preco": "43000",
+        "potencia": "111 cv",
+        "consumo": "13 km/l",
+        "dimensoes": "4440 x 1695 x 1530 mm",
+        "porta_malas": "460 L",
+        "tanque": "41 L"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Sandero",
+    "ano": "2018",
+    "imagem": "https://www.edmunds.com/renault/sandero/2018/pictures/",
+    "variacoes": [
+      {
+        "nome": "Expression 1.6",
+        "preco": "38000",
+        "potencia": "118 cv",
+        "consumo": "12 km/l",
+        "dimensoes": "4050 x 1733 x 1530 mm",
+        "porta_malas": "320 L",
+        "tanque": "50 L"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "208",
+    "ano": "2017",
+    "imagem": "https://www.edmunds.com/peugeot/208/2017/pictures/",
+    "variacoes": [
+      {
+        "nome": "Allure 1.6",
+        "preco": "47000",
+        "potencia": "122 cv",
+        "consumo": "11.5 km/l",
+        "dimensoes": "3960 x 1730 x 1460 mm",
+        "porta_malas": "285 L",
+        "tanque": "50 L"
+      }
+    ]
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Argo",
+    "ano": "2018",
+    "imagem": "https://www.edmunds.com/fiat/argo/2018/pictures/",
+    "variacoes": [
+      {
+        "nome": "Drive 1.0",
+        "preco": "43000",
+        "potencia": "77 cv",
+        "consumo": "14 km/l",
+        "dimensoes": "3995 x 1743 x 1527 mm",
+        "porta_malas": "300 L",
+        "tanque": "48 L"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Up!",
+    "ano": "2018",
+    "imagem": "https://www.edmunds.com/volkswagen/up/2018/pictures/",
+    "variacoes": [
+      {
+        "nome": "High Up! 1.0 TSI",
+        "preco": "50000",
+        "potencia": "105 cv",
+        "consumo": "16 km/l",
+        "dimensoes": "3557 x 1641 x 1498 mm",
+        "porta_malas": "285 L",
+        "tanque": "50 L"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Fit",
+    "ano": "2017",
+    "imagem": "https://www.edmunds.com/honda/fit/2017/pictures/",
+    "variacoes": [
+      {
+        "nome": "EXL 1.5",
+        "preco": "65000",
+        "potencia": "115 cv",
+        "consumo": "13 km/l",
+        "dimensoes": "4090 x 1695 x 1525 mm",
+        "porta_malas": "363 L",
+        "tanque": "40 L"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "ano": "2017",
+    "imagem": "https://www.edmunds.com/toyota/etios/2017/pictures/",
+    "variacoes": [
+      {
+        "nome": "XLS 1.5",
+        "preco": "55000",
+        "potencia": "96 cv",
+        "consumo": "14 km/l",
+        "dimensoes": "4265 x 1695 x 1510 mm",
+        "porta_malas": "270 L",
+        "tanque": "45 L"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Creta",
+    "ano": "2017",
+    "imagem": "https://www.edmunds.com/hyundai/creta/2017/pictures/",
+    "variacoes": [
+      {
+        "nome": "Prestige 2.0",
+        "preco": "95000",
+        "potencia": "166 cv",
+        "consumo": "10 km/l",
+        "dimensoes": "4270 x 1780 x 1620 mm",
+        "porta_malas": "431 L",
+        "tanque": "55 L"
+      }
+    ]
+  },
+  {
+    {
+  "marca": "Chevrolet",
+  "modelo": "Tracker",
+  "ano": "2017",
+  "imagem": "https://i.imgur.com/NYLiC6Eg.jpeg",
+  "variacoes": [
+    {
+      "nome": "LTZ 1.8 AWD",
+      "preco": "85000",
+      "potencia": "141 cv",
+      "consumo": "7.9 l/100 km",
+      "dimensoes": "4248 x 1792 x 1674 mm",
+      "porta_malas": "356 L",
+      "tanque": "53 L",
+::contentReference[oaicite:0]{index=0}
+ 
 
