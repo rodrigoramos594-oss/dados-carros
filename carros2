@@ -1,0 +1,22 @@
+[
+  { "marca": "Toyota", "modelo": "Corolla", "ano": "2015", "imagem": "https://www.edmunds.com/toyota/corolla/2015/pictures/" },
+  { "marca": "Volkswagen", "modelo": "Gol", "ano": "2018", "imagem": "https://www.edmunds.com/volkswagen/golf/2018/pictures/" },
+  { "marca": "Fiat", "modelo": "Palio", "ano": "2016", "imagem": "https://www.edmunds.com/fiat/palio/2016/pictures/" },
+  { "marca": "Chevrolet", "modelo": "Onix", "ano": "2017", "imagem": "https://media.chevrolet.com/Pages/galleries/br/pt/vehicles/chevrolet/onix/2017.html?page=2" },
+  { "marca": "Honda", "modelo": "Civic", "ano": "2018", "imagem": "https://www.edmunds.com/honda/civic/2018/pictures/" },
+  { "marca": "Ford", "modelo": "Fiesta", "ano": "2015", "imagem": "https://www.edmunds.com/ford/fiesta/2015/pictures/" },
+  { "marca": "Hyundai", "modelo": "HB20", "ano": "2016", "imagem": "https://www.edmunds.com/hyundai/hb20/2016/pictures/" },
+  { "marca": "Nissan", "modelo": "Versa", "ano": "2017", "imagem": "https://www.edmunds.com/nissan/versa/2017/pictures/" },
+  { "marca": "Renault", "modelo": "Sandero", "ano": "2018", "imagem": "https://www.edmunds.com/renault/sandero/2018/pictures/" },
+  { "marca": "Peugeot", "modelo": "208", "ano": "2017", "imagem": "https://www.edmunds.com/peugeot/208/2017/pictures/" },
+  { "marca": "Fiat", "modelo": "Argo", "ano": "2018", "imagem": "https://www.edmunds.com/fiat/argo/2018/pictures/" },
+  { "marca": "Volkswagen", "modelo": "Up!", "ano": "2018", "imagem": "https://www.edmunds.com/volkswagen/up/2018/pictures/" },
+  { "marca": "Honda", "modelo": "Fit", "ano": "2017", "imagem": "https://www.edmunds.com/honda/fit/2017/pictures/" },
+  { "marca": "Toyota", "modelo": "Etios", "ano": "2017", "imagem": "https://www.edmunds.com/toyota/etios/2017/pictures/" },
+  { "marca": "Hyundai", "modelo": "Creta", "ano": "2017", "imagem": "https://www.edmunds.com/hyundai/creta/2017/pictures/" },
+  { "marca": "Chevrolet", "modelo": "Tracker", "ano": "2017", "imagem": "https://www.edmunds.com/chevrolet/tracker/2017/pictures/" },
+  { "marca": "Jeep", "modelo": "Renegade", "ano": "2018", "imagem": "https://www.edmunds.com/jeep/renegade/2018/pictures/" },
+  { "marca": "Volkswagen", "modelo": "Virtus", "ano": "2018", "imagem": "https://www.edmunds.com/volkswagen/virtus/2018/pictures/" },
+  { "marca": "Toyota", "modelo": "Yaris", "ano": "2018", "imagem": "https://www.edmunds.com/toyota/yaris/2018/pictures/" },
+  { "marca": "Renault", "modelo": "Kwid", "ano": "2018", "imagem": "https://www.edmunds.com/renault/kwid/2018/pictures/" }
+]
